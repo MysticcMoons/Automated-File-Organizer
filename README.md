@@ -9,10 +9,10 @@
 - Skips over folders to avoid mis-sorting directories  
 - Works on **Windows, macOS, and Linux**  
 
-## 🚀 Why I Built It  
+## Why I Built It  
 I got tired of manually sorting a messy Downloads folder after long coding sessions or media downloads. This simple tool saves time, keeps things tidy, and automates a boring repetitive chore — while giving me practice in scripting and file operations with Python.  
 
-## 🛠️ How to Use  
+## How to Use  
 
 ```bash
 # Clone the repo  
@@ -47,7 +47,7 @@ FileOrganizer/
 - Add logging / Undo support (in case files are moved in error)  
 - Package as an installable tool (`pip install file-organizer`)  
 
-## 📝 License & Contact  
+## License & Contact  
 MIT License — feel free to use and adapt.  
 Created by Julia Shannon. Reach me at: juliarshan@gmail.com  
 
