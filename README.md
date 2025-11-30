@@ -10,7 +10,7 @@
 - Works on **Windows, macOS, and Linux**  
 
 ## Why I Built It  
-I got tired of manually sorting a messy Downloads folder after long coding sessions or media downloads. This simple tool saves time, keeps things tidy, and automates a boring repetitive chore — while giving me practice in scripting and file operations with Python.  
+I got tired of manually sorting a messy Downloads folder after long coding sessions or media downloads. This simple tool saves time, keeps things tidy, and automates a boring repetitive chore, while giving me practice in scripting and file operations with Python.  
 
 ## How to Use  
 
